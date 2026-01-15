@@ -1,2 +1,2 @@
-# ACA2021-Example（马凤鸣）
+# ACA2021-Example（Ma）
 An Example for Academic Writing, Norms, and Ethics
